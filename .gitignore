@@ -1,0 +1,9 @@
+*.zip
+__pycache__/
+*.pyc
+model/artifacts/dataset_features.csv
+model/artifacts/predictions_test.csv
+model/artifacts/predictions_train.csv
+model/artifacts/predictions_val.csv
+model/artifacts/model_ridge.npz
+15453660

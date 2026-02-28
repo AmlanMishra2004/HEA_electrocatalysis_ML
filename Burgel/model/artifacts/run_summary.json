@@ -1,0 +1,12 @@
+{
+  "n_samples_valid": 4875,
+  "n_samples_raw": 4875,
+  "target": "eta_at_10mA",
+  "xrd_peak_reference_2theta": 40.44,
+  "dropped_by_reason": {
+    "no_target_crossing": 593,
+    "empty_feature_block": 4
+  },
+  "model_type": "ridge_numpy",
+  "model_path": "/home/amlan/energy3/Burgel/model/artifacts/model_ridge.npz"
+}
